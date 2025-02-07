@@ -3,6 +3,7 @@
 ##### Data collection:
 - Get data set (API, Webscrape?) - Edmond (Trip Advisor API)       ######## Get data by FEB 16
 - https://www.tripadvisor.ca/ShowTopic-g1-i12105-k8937619-API_Key_availability-Tripadvisor_Support.html
+- Could consider: https://datarade.ai/data-products/autoscraping-s-tripadvisor-review-data-8m-global-reviews-wi-autoscraping
 
 ##### Exploratory Analysis/Preprocessing:
 - Data Cleaning
